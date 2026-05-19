@@ -1,5 +1,7 @@
 # TPMP Laboratory Work 6
 
+https://docs.google.com/document/d/1bMtijqwolR1OgC0SkXlgrj7_KAIDXjX3/edit?usp=drive_link&ouid=107887052123702597022&rtpof=true&sd=true
+
 # Overview
 
 Swift mobile applications for TPMP laboratory work 6.
